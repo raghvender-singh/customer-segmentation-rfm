@@ -131,6 +131,8 @@ Use lower-cost reactivation campaigns rather than allocating a large share of th
 
 ## Tableau Dashboard
 
+![Customer Segmentation & RFM Dashboard](customer_segmentation_rfm_dashboard.png)
+
 An interactive Tableau dashboard was created to visualize:
 
 - Customer distribution by segment
